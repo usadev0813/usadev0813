@@ -23,6 +23,7 @@
 
 ### 
 * Java (and Kotlin)
+* Spring Boot
 * Shell script
 * CI/CD
 * Docker
