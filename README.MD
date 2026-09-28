@@ -29,3 +29,14 @@
 * Docker
 * MySQL (MariaDB)
 </details>
+
+## Engineering principles
+
+1. The network is not always reliable.
+2. Latency is not always zero.
+3. Bandwidth is not infinite.
+4. The network is not always secure.
+5. Network topology can change.
+6. There can be multiple administrators.
+7. Transport has a cost.
+8. Network environments are not always the same.
